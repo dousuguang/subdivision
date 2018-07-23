@@ -2,6 +2,8 @@
 function topQuadtreeOC(nelx,nely,volfrac, bSubdivision,bBlackWhite,ItMax)
 % bSubdivision: 1 - subdivision
 %               2 - balanced subdivision
+% bBlackWhite:  1 - on
+%               0 - off
 clc;
 close all;
 MMA = 0;
